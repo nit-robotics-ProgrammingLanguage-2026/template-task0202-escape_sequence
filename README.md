@@ -1,8 +1,8 @@
-# template-task0201-printf
-「Hello world(行末で改行しない)と表示するC言語プログラムを作成し，本システムで提出せよ．
-提出するにはターミルで
- git add .
- git commit -m "k0201を作成"
- git push
+# template-task0202-escape_sequence
+「Hello world」(Helloとworldの間にある空白はタブ文字にして，行末に改行しない)と表示するC言語プログラムを作成し，提出せよ．
+ヒント: タブ文字のような特殊記号もエスケープシーケンスを使って入力する
 
-　ヒント: スライドの「最初のプログラム」を少し修正するだけでよい．スライドのprintfの書式に説明されている「改行文字」の有無に注意
+提出するにはターミルで
+ -git add .
+ -git commit -m "k0202を作成"
+ -git push
