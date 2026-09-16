@@ -3,6 +3,6 @@
 ヒント: タブ文字のような特殊記号もエスケープシーケンスを使って入力する
 
 提出するにはターミルで
- -git add .
- -git commit -m "k0202を作成"
- -git push
+* git add .
+* git commit -m "k0202を作成"
+* git push
